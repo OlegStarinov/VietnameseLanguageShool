@@ -27,7 +27,7 @@ Translation and spelling practice in Vietnamese.
 
 ## Demo version:
 
-https://whimsical-scone-b507a9.netlify.app
+https://vinlingua.netlify.app/
 
 ## Available Scripts
 
